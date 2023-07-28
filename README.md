@@ -9,6 +9,7 @@ Kanji-Kounter is a Python tool that checks EPUB files and gives the user informa
 ## Use-case example
 
 ![2023_07_28_13-43__yZN](https://github.com/AmadoouXC/Kanji-Kounter/assets/140725234/5e4dd480-5792-4c31-9b8e-219b465f8cae)
+If you don't have python or don't want to bother with the terminal, just run the .exe
 
 ## Security concern
 Windows sometimes falsely detects the .exe as a virus, just run it anyways
