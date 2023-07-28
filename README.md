@@ -1,1 +1,1 @@
-# Kanji-Counter
+# Kanji-Kounter
