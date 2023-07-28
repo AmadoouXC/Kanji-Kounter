@@ -4,4 +4,4 @@ Kanji-Kounter is a Python tool that checks EPUB files and gives the user informa
 ## Required libraries
 [ebooklib](https://pypi.org/project/EbookLib/) and regex
 
-In some cases, you might also need to install [tkinter](https://docs.python.org/3/library/tkinter.html). On most systems, tkinter is included in the standard library.
+**In some cases, you might also need to install [tkinter](https://docs.python.org/3/library/tkinter.html). On most systems, tkinter is included in the standard library.**
