@@ -12,5 +12,5 @@ Kanji-Kounter is a Python tool that checks EPUB files and gives the user informa
 If you don't have python or don't want to bother with the terminal, just run the .exe
 
 ## Security concern
-Windows sometimes falsely detects the .exe as a virus, just run it anyways
+Windows sometimes falsely detects the .exe as a virus, even tho it's safe, you can check the source-code if you're a bit paranoid :)
 
